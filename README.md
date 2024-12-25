@@ -67,10 +67,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 4. Analyze the data, train the models, and generate sales predictions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace `your-username` with your actual GitHub username and make any further adjustments as needed!
